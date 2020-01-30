@@ -1,0 +1,63 @@
+---
+title: "Lab 03 - Tidy Graphics and Teamwork"
+subtitle: "Due: Monday, Feb 3 at 11:59pm"
+author: ""
+date: ""
+output:
+  pdf_document: default
+  html_document: default
+---
+
+*****
+
+You may knit this document to see what the template looks like. 
+**When turning a document in on Gradescope, remember to `Knit to PDF`** and 
+submit that PDF document. 
+
+Delete everything between the 5 asterisks in your final document. Also, delete
+the 5 asterisks.
+
+*****
+
+## Packages
+
+```{r packages, warning = FALSE, message = FALSE}
+library(tidyverse)
+```
+
+## Exercise 2
+
+```{r}
+### In this chunk, implement the code for Exercise 2.
+### Name your chunk and then delete this comment.
+
+```
+
+## Exercise 3
+
+```{r}
+### In this chunk, implement the code for Exercise 3.
+### Name your chunk and then delete this comment.
+
+```
+
+## Exercise 4
+
+
+## Exercise 5
+
+
+*****
+
+## Final checks
+
+1. Did every team member commit?
+2. Do all code chunks have names?
+3. Are your figures appropriately sized?
+4. Is all code and narrative following the 80 characters rule?
+5. Did you proofread your narrative and run spell checker (button next to save)? 
+
+*****
+
+
+
